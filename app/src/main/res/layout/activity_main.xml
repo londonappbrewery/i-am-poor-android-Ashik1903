@@ -5,7 +5,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/holo_blue_bright"
+    android:background="@android:color/holo_green_light"
     android:paddingLeft="16dp"
     android:paddingTop="16dp"
     android:paddingRight="16dp"
@@ -16,6 +16,7 @@
         android:id="@+id/imageView"
         android:layout_width="393dp"
         android:layout_height="632dp"
+        android:contentDescription="TODO"
         app:srcCompat="@drawable/coal" />
 
     <TextView
